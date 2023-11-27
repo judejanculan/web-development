@@ -7,10 +7,6 @@
 * [GooglePlay](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather)
 * [F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather)
 
-### Contact me
-* By Email: wangdayeeeeee@gmail.com
-* Or GitHub issue
-
 ### How to run
 Clone this project and build it by AndroidStudio.
 
@@ -37,7 +33,7 @@ If you want to contribute code to help me to improve GeometricWeather, please ma
 * [LICENSE](/LICENSE)
 
 ### Also see
-* [GeometricWeather For iOS](https://github.com/WangDaYeeeeee/GeometricWeather-iOS)
+* [GeometricWeather For iOS](https://github.com/judejanculan/web-development)
 
 ### What I gonna do next
 * Complete the migration to Material You.
