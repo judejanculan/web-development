@@ -1,6 +1,5 @@
 # GeometricWeather
 
-![Geometric Weather](/work/preview-header-android.png?raw=true)
 
 ### Download app
 * [CoolAPK](http://www.coolapk.com/apk/wangdaye.com.geometricweather)
